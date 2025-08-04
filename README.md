@@ -22,8 +22,7 @@ affects the CMB power spectrum, and to constrain its parameters using observatio
 
 - CMB anisotropies computed using CAMB with a custom dark energy model.
 - Parametrized equation of state:  
-  \[
-  w(a) = w_0 + (1 - a) w_a
+$w(a) = w_0 + (1 - a) w_a$
   \]
 - Best-fit cosmological parameters derived from MCMC sampling (Planck 2018 likelihoods).
 - Visualization of TT, EE, BB, and TE spectra along with lensing effects.

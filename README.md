@@ -11,7 +11,7 @@ This project uses the [CAMB](https://camb.info) (Code for Anisotropies in the Mi
 To investigate how a **trigonometric quintessence potential** of the form
 
 \[
-V($\phi$) = m^2 f^2 (1 - \cos(\phi/f))^n + \Lambda
+V($\phi$) = $m^2 f^2 (1 - \cos(\phi/f))^n + \Lambda$
 \]
 
 affects the CMB power spectrum, and to constrain its parameters using observational data.
